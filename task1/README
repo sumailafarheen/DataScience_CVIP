@@ -9,6 +9,8 @@ IDE Used: Visual Studio Code
 For my first assignment from CodersCave, I performed Exploratory Data Analysis (EDA) on a terrorism dataset:
 
 The project comprises of these following topics:
+
+Dataset can be obtained from : www.kaggle.com
 1) Understanding the Dataset: Started by gaining a high-level understanding of the dataset by looking at the dataset's structure and the data types of each column.
 
 2) Handling the Missing Data: Identifying missing values in the dataset and deciding how to handle them. Depending on the amount and nature of missing data, I chose to drop the columns with null
