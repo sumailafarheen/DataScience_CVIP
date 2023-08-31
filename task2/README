@@ -1,1 +1,28 @@
+Golden Task: Breast Cancer Prediction
+
+Language Used: Python Jupyter Notebook
+
+IDE Used: Visual Studio Code
+
+GitHub Link: https://lnkd.in/dSUZUvXC
+
+The project comprises of these following topics: 1. Data Collection:
+
+Dataset link-https://lnkd.in/dBwQzAXT
+
+2. Data preprocessing - -Identifying Null Values
+
+-Identifying Missing Values
+
+5. Data Statistics:
+
+- This information such as count, mean, standard deviation, minimum, maximum, and quartile values
+
+for each numerical column.
+
+5. Performing EDA:
+
+The visualizations helped in identifying patterns, outliers, and relationships within the data, and the summary statistics provide a quantitative summary of the dataset.
+
+This analysis is crucial for informing further analysis,modeling, and decision-making related to hreast cancer
 
