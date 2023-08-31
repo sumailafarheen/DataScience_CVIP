@@ -11,9 +11,9 @@ The project comprises of these following topics:
 
 2. Data preprocessing - -Identifying Null Values, Identifying Missing Values
 
-5. Data Statistics: This information such as count, mean, standard deviation, minimum, maximum, and quartile values for each numerical column.
+3. Data Statistics: This information such as count, mean, standard deviation, minimum, maximum, and quartile values for each numerical column.
 
-5. Performing EDA:  The visualizations helped in identifying patterns, outliers, and relationships within the data, and the summary statistics provide a quantitative summary of the dataset.
+4. Performing EDA:  The visualizations helped in identifying patterns, outliers, and relationships within the data, and the summary statistics provide a quantitative summary of the dataset.
 
 This analysis is crucial for informing further analysis,modeling, and decision-making related to Breast cancer prediction.
 
